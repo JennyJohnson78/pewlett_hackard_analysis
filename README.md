@@ -17,7 +17,7 @@ Hewlett Packard is bracing for the "silver tsunami", or mass retirement of it's 
 
 * 1549 retirees will be eligible to be a mentor after retirement.
 
-![image](https://user-images.githubusercontent.com/67409852/140635951-15cf278a-0f0d-4592-82f3-e922892ca6f2.png)
+![image](https://user-images.githubusercontent.com/67409852/140636305-f2d90bf4-18d9-404a-8265-bfbf358e2a51.png)
 
 ## Summary
 90,398 employees will be retiring in the "silver tsunami". That means almost 100,000 positions will need to be filled. If these employees retire, current employees can be promoted into senior rolls, however, their entry level or junior level positions will be open and will still need to be filled. Because only 1549 employees are eligible to be mentors, that means each mentor would have to coach over 58 new hires. There are not enough retirees eligible to mentor each new person if they all want to be mentored. A solution could be that current employees could be made eligible to be mentors. A new query could be written to determine employees who have been with the company for a certain amount of time that are not yet retirement age, and if they have worked at Hewlett Packard for the alloted time, they too could become a mentor. Another solution would be to write another query to gather individuals who have already retired and in order to reach out to them to see if they would be interested in being a mentor. 
